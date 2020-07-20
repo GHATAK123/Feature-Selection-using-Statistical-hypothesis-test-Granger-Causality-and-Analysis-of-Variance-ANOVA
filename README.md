@@ -1,0 +1,2 @@
+# Feature-Selection-using-Statistical-hypothesis-test-Granger-Causality-and-Analysis-of-Variance-ANOVA
+With the help of the classification model, we have calculated the accuracy of our model on the original dataset. Feature selection techniques such as Granger Causality and ANOVA(F-test) is being used. Based on the results of the feature selection, we have dropped the trivial attributes present in the dataset. After that, we have calculated the accuracy of the reduced dataset. 
